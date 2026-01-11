@@ -2,13 +2,14 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Warut Bunprasert <warut.b@disroot.org>, 2026.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-12 16:06+0200\n"
-"PO-Revision-Date: 2015-08-17 01:30+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2026-01-11 12:30+0700\n"
+"Last-Translator: Warut Bunprasert <warut.b@disroot.org>, 2026\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
@@ -20,173 +21,174 @@ msgstr ""
 
 #: ../src/lxrandr.c:87
 msgid "Laptop LCD Monitor"
-msgstr ""
+msgstr "จอ LCD แล็ปท็อป"
 
 #: ../src/lxrandr.c:89
 msgid "External VGA Monitor"
-msgstr ""
+msgstr "จอภาพ VGA ภายนอก"
 
 #: ../src/lxrandr.c:89
 msgid "VGA Monitor"
-msgstr ""
+msgstr "จอภาพวีจีเอ"
 
 #: ../src/lxrandr.c:91
 msgid "External DVI Monitor"
-msgstr ""
+msgstr "จอภาพ DVI ภายนอก"
 
 #: ../src/lxrandr.c:91
 msgid "DVI Monitor"
-msgstr ""
+msgstr "จอภาพดีวีไอ"
 
 #: ../src/lxrandr.c:93
 msgid "TV"
-msgstr ""
+msgstr "ทีวี"
 
 #: ../src/lxrandr.c:95
 msgid "Default Monitor"
-msgstr ""
+msgstr "จอภาพเริ่มต้น"
 
 #: ../src/lxrandr.c:254 ../src/lxrandr.c:265 ../src/lxrandr.c:891
 #: ../src/lxrandr.c:893
 msgid "Auto"
-msgstr ""
+msgstr "อัตโนมัติ"
 
 #. TRANSLATORS: Replace mw string with your names, one name per line.
 #: ../src/lxrandr.c:293
 msgid "translator-credits"
-msgstr ""
+msgstr "Warut Bunprasert <warut.b@disroot.org>, 2026"
 
 #: ../src/lxrandr.c:301
 msgid "LXRandR"
-msgstr ""
+msgstr "LXRandR"
 
 #: ../src/lxrandr.c:304
 msgid "Copyright (C) 2008-2025"
-msgstr ""
+msgstr "ลิขสิทธิ์ (C) 2008-2025"
 
 #: ../src/lxrandr.c:305
 msgid "Monitor configuration tool for LXDE"
-msgstr ""
+msgstr "ตรวจสอบเครื่องมือกำหนดค่าสำหรับ LXDE"
 
 #: ../src/lxrandr.c:474
 msgid "LXRandR autostart"
-msgstr ""
+msgstr "LXRandR เริ่มอัตโนมัติ"
 
 #: ../src/lxrandr.c:475
 msgid "Start xrandr with settings done in LXRandR"
-msgstr ""
+msgstr "เริ่ม xrandr ด้วยการตั้งค่าที่ทำใน LXRandR"
 
 #: ../src/lxrandr.c:519
 msgid ""
 "Is everything OK? Confirm within 15 seconds, otherwise previous state will "
 "be restored."
-msgstr ""
+msgstr "การตั้งค่าถูกต้องไหม โปรดยืนยันภายใน 15 วินาที หากไม่ยืนยันเราจำเป็นต้องคืนสถานะเดิม"
 
 #: ../src/lxrandr.c:522
 msgid "_OK"
-msgstr ""
+msgstr "_ตกลง"
 
 #: ../src/lxrandr.c:523
 msgid "_Abort"
-msgstr ""
+msgstr "_ยกเลิก"
 
 #: ../src/lxrandr.c:652
 msgid ""
 "You cannot turn off all monitors. Otherwise, you will not be able to turn "
 "them on again since this tool is not accessible without monitor."
-msgstr ""
+msgstr "คุณไม่สามารถปิดทุกจอภาพ เนื่องจากเครื่องมือนี้จำเป็นต้องเข้าถึงด้วยจอภาพ"
 
 #: ../src/lxrandr.c:673
 msgid "Configuration Saved"
-msgstr ""
+msgstr "บันทึกการกำหนดค่าแล้ว"
 
 #: ../src/lxrandr.c:701
 msgid "Unable to get monitor information!"
-msgstr ""
+msgstr "ไม่สามารถรับข้อมูลการตรวจสอบได้!"
 
 #: ../src/lxrandr.c:707
 msgid "Display Settings"
-msgstr ""
+msgstr "การตั้งค่าการแสดงผล"
 
 #: ../src/lxrandr.c:742
 msgid "Show the same screen on both laptop LCD and external monitor"
-msgstr ""
+msgstr "แสดงหน้าจอเดียวกันทั้งบนจอ LCD ของแล็ปท็อปและจอภาพภายนอก"
 
 #: ../src/lxrandr.c:747
 msgid "Turn off laptop LCD and use external monitor only"
-msgstr ""
+msgstr "ปิดจอ LCD ของแล็ปท็อปและใช้จอภาพภายนอกเท่านั้น"
 
 #: ../src/lxrandr.c:752
 msgid "Turn off external monitor and use laptop LCD only"
-msgstr ""
+msgstr "ปิดจอภาพภายนอกและใช้จอ LCD ของแล็ปท็อปเท่านั้น"
 
 #: ../src/lxrandr.c:757
 msgid "Place external monitor to the right of laptop LCD"
-msgstr ""
+msgstr "วางจอภาพภายนอกทางด้านขวาของจอ LCD ของแล็ปท็อป"
 
 #: ../src/lxrandr.c:762
 msgid "Place external monitor above of laptop LCD"
-msgstr ""
+msgstr "วางจอภาพภายนอกไว้เหนือจอ LCD ของแล็ปท็อป"
 
 #: ../src/lxrandr.c:766
 msgid "Quick Options"
-msgstr ""
+msgstr "ตัวเลือกด่วน"
 
 #: ../src/lxrandr.c:775
 msgid "Advanced"
-msgstr ""
+msgstr "ขั้นสูง"
 
 #: ../src/lxrandr.c:779
 msgid "The following monitor is detected:"
 msgid_plural "The following monitors are detected:"
-msgstr[0] ""
+msgstr[0] "ตรวจพบจอภาพต่อไปนี้:"
+msgstr[1] "ตรวจพบจอภาพต่อไปนี้:"
 
 #: ../src/lxrandr.c:831
 msgid "Turn On"
-msgstr ""
+msgstr "เปิด"
 
 #: ../src/lxrandr.c:845
 msgid "Position:"
-msgstr ""
+msgstr "ตำแหน่ง:"
 
 #: ../src/lxrandr.c:849 ../src/lxrandr.c:857
 msgid "Default"
-msgstr ""
+msgstr "ค่าเริ่มต้น"
 
 #: ../src/lxrandr.c:850 ../src/lxrandr.c:858
 msgid "On right"
-msgstr ""
+msgstr "ทางด้านขวา"
 
 #: ../src/lxrandr.c:851 ../src/lxrandr.c:859
 msgid "Above"
-msgstr ""
+msgstr "ข้างบน"
 
 #: ../src/lxrandr.c:852 ../src/lxrandr.c:860
 msgid "On left"
-msgstr ""
+msgstr "ด้านซ้าย"
 
 #: ../src/lxrandr.c:853 ../src/lxrandr.c:861
 msgid "Below"
-msgstr ""
+msgstr "ด้านล่าง"
 
 #: ../src/lxrandr.c:869
 msgid "Resolution:"
-msgstr ""
+msgstr "ขนาดจอ:"
 
 #: ../src/lxrandr.c:880
 msgid "Refresh Rate:"
-msgstr ""
+msgstr "อัตรารีเฟรช:"
 
 #: ../data/lxrandr.desktop.in.h:1
 msgid "Monitor Settings"
-msgstr ""
+msgstr "ตรวจสอบการตั้งค่า"
 
 #: ../data/lxrandr.desktop.in.h:2
 msgid "Change screen resolution and configure external monitors"
-msgstr ""
+msgstr "เปลี่ยนความละเอียดหน้าจอและกำหนดค่าจอภาพภายนอก"
 
 #: ../data/lxrandr.desktop.in.h:3
 msgid ""
 "screen;display;tv;extend;projector;xrandr;refresh rate;position;enable;"
 "disable;"
-msgstr ""
+msgstr "สกรีน,จอภาพ,ทีวี,ขยาย,โปรเจกเตอร์,xrandr,อัตรารีเฟรช,ตำแหน่ง,เปิด,ปิด"
